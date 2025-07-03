@@ -27,10 +27,12 @@ depends=(gcc-libs
          solid)
 makedepends=(doxygen
              extra-cmake-modules
+             gpsd
              networkmanager-qt
              plasma-activities
              qt6-tools)
-optdepends=('networkmanager-qt: geolocation dataengine'
+optdepends=('gpsd: GPS-based geolocation dataengine'
+            'networkmanager-qt: geolocation dataengine'
             'plasma-activities: activities dataengine')
 groups=(plasma)
 source=(https://download.kde.org/stable/plasma/$_dirver/$pkgname-$pkgver.tar.xz{,.sig})
