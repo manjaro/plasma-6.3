@@ -17,11 +17,11 @@ jobs:
         
 ######### EDIT:
           package_list: plasma
-          release_tag: 6.3.5-0
+          release_tag: 6.3.6-1
           ## path to source repo
           source_url: https://github.com/manjaro/plasma-6.3.git
           source_folder: plasma-6.3
           ## branch: (default: stable)
-          branch: unstable
+          branch: testing
           ## custom-repo - default: ""
           custom-repo: ""
