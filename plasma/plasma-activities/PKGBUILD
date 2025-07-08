@@ -26,7 +26,7 @@ conflicts=(kactivities)
 replaces=(kactivities)
 groups=(plasma)
 source=(https://download.kde.org/stable/plasma/$_dirver/$pkgname-$pkgver.tar.xz{,.sig})
-sha256sums=('eee55a4ede2d977f91da5a7fded6dd21aea6c2ee4f5d9df1168270a8d61d19fa'
+sha256sums=('33db240a068fb09c0e3a3b1b2cb7e5c301ad9ed4a5e43f0050e0ad6922903928'
             'SKIP')
 validpgpkeys=('E0A3EB202F8E57528E13E72FD7574483BB57B18D'  # Jonathan Esk-Riddell <jr@jriddell.org>
               '0AAC775BB6437A8D9AF7A3ACFE0784117FBCE11D'  # Bhushan Shah <bshah@kde.org>

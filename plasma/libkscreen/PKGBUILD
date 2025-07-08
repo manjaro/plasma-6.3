@@ -23,7 +23,7 @@ makedepends=(doxygen
              qt6-tools)
 groups=(plasma)
 source=(https://download.kde.org/stable/plasma/$_dirver/$pkgname-$pkgver.tar.xz{,.sig})
-sha256sums=('5a5d14bacfec9b0591c1e6d6e14f398e694366c1ff2f38f6e0cd752eda91b9e3'
+sha256sums=('b23cc6dc51c970e4512372e6bef06f5378fcfcd79fa0178b66b81f06308a2490'
             'SKIP')
 validpgpkeys=('E0A3EB202F8E57528E13E72FD7574483BB57B18D'  # Jonathan Esk-Riddell <jr@jriddell.org>
               '0AAC775BB6437A8D9AF7A3ACFE0784117FBCE11D'  # Bhushan Shah <bshah@kde.org>

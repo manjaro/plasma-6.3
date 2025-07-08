@@ -26,7 +26,7 @@ depends=(gcc-libs
 makedepends=(extra-cmake-modules)
 groups=(plasma)
 source=(https://download.kde.org/stable/plasma/$_dirver/$pkgname-$pkgver.tar.xz{,.sig})
-sha256sums=('f76c9ff4df0f6de0c9ee475c7e357497f77d2615a7add097b669dd68b59a6900'
+sha256sums=('9a9b515c658a1b1d287b75d0c928677b7a4d4e06f73ac41ee1bc362ae62e2885'
             'SKIP')
 validpgpkeys=('E0A3EB202F8E57528E13E72FD7574483BB57B18D'  # Jonathan Esk-Riddell <jr@jriddell.org>
               '0AAC775BB6437A8D9AF7A3ACFE0784117FBCE11D'  # Bhushan Shah <bshah@kde.org>

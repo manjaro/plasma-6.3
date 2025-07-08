@@ -38,7 +38,7 @@ conflicts=(kcm-wacomtablet)
 replaces=(kcm-wacomtablet)
 groups=(plasma)
 source=(https://download.kde.org/stable/plasma/$_dirver/$pkgname-$pkgver.tar.xz{,.sig})
-sha256sums=('7d70331dec2f80b2c564e7881b25f629adfa52efc7af60df9a15479eb532f0b7'
+sha256sums=('c3ca6d76af1d662475aecd8e480a6d52e4052d42d3df9add9446af23447bfe75'
             'SKIP')
 validpgpkeys=('E0A3EB202F8E57528E13E72FD7574483BB57B18D'  # Jonathan Esk-Riddell <jr@jriddell.org>
               '0AAC775BB6437A8D9AF7A3ACFE0784117FBCE11D'  # Bhushan Shah <bshah@kde.org>

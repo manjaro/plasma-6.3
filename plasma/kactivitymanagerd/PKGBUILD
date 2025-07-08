@@ -25,7 +25,7 @@ makedepends=(boost
              extra-cmake-modules)
 groups=(plasma)
 source=(https://download.kde.org/stable/plasma/$_dirver/$pkgname-$pkgver.tar.xz{,.sig})
-sha256sums=('154477e756bfedaa94159c886c0d6dd63bc709c1f3bcc8acc4984c88f7c33fd5'
+sha256sums=('5460ba244fdeee9ff3a1dabf9c4533350435ad4ffc153b0a686356e4e1db7dda'
             'SKIP')
 validpgpkeys=('E0A3EB202F8E57528E13E72FD7574483BB57B18D'  # Jonathan Esk-Riddell <jr@jriddell.org>
               '0AAC775BB6437A8D9AF7A3ACFE0784117FBCE11D'  # Bhushan Shah <bshah@kde.org>

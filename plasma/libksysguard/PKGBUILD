@@ -36,7 +36,7 @@ makedepends=(extra-cmake-modules
 groups=(plasma)
 source=(https://download.kde.org/stable/plasma/$_dirver/$pkgname-$pkgver.tar.xz{,.sig})
 install=libksysguard.install
-sha256sums=('36c01f8c8218c175062e8a0db2c07ca39abeac34fc62d7e6b48194f053bc3523'
+sha256sums=('14f97d9387018adc623380dde63b2a8f5968a4fbd0afb13931c896d20f76bcfb'
             'SKIP')
 validpgpkeys=('E0A3EB202F8E57528E13E72FD7574483BB57B18D'  # Jonathan Esk-Riddell <jr@jriddell.org>
               '0AAC775BB6437A8D9AF7A3ACFE0784117FBCE11D'  # Bhushan Shah <bshah@kde.org>

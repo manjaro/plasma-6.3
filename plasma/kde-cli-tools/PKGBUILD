@@ -31,7 +31,7 @@ makedepends=(extra-cmake-modules
              kdoctools)
 groups=(plasma)
 source=(https://download.kde.org/stable/plasma/$_dirver/$pkgname-$pkgver.tar.xz{,.sig})
-sha256sums=('f047a46756c882f9392c64e3e62ad098ab18f37f1f35bdfc62082b14a7a69037'
+sha256sums=('9a026b5164b313c16523fe644fc98e25623641c8927e4688392c0515ee9385ee'
             'SKIP')
 validpgpkeys=('E0A3EB202F8E57528E13E72FD7574483BB57B18D'  # Jonathan Esk-Riddell <jr@jriddell.org>
               '0AAC775BB6437A8D9AF7A3ACFE0784117FBCE11D'  # Bhushan Shah <bshah@kde.org>

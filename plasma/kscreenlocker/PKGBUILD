@@ -47,7 +47,7 @@ source=(https://download.kde.org/stable/plasma/$_dirver/$pkgname-$pkgver.tar.xz{
         kde.pam
         kde-fingerprint.pam 
         kde-smartcard.pam)
-sha256sums=('796ef34e91f97dbeb19002b0ff4400eb732dac91d5184a399bf9e5bde236a8f6'
+sha256sums=('7aab8de9d922c52a440205856d338553f4072558516f71a69a91a9f56d789501'
             'SKIP'
             'adba7bb7c27eb3a572e5e9d3cea0dbeebe59d3634472d1863d14fe892cb13b2b'
             '32734b4e1ec8b7f7e32b6cb2d68285c5c4f15f53736bba085096e76095181241'

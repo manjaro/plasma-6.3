@@ -34,7 +34,7 @@ makedepends=(extra-cmake-modules
 optdepends=('system-config-printer: auto-detect the printer driver')
 groups=(plasma)
 source=(https://download.kde.org/stable/plasma/$_dirver/$pkgname-$pkgver.tar.xz{,.sig})
-sha256sums=('77151f395ad91eda6b644eb6c87fe289be198eab41c039e60bdbb3b16d559ac1'
+sha256sums=('426bf876b22073b70bcf2dc35870bd21d79517c429f26b98c78690e928ce650b'
             'SKIP')
 validpgpkeys=('E0A3EB202F8E57528E13E72FD7574483BB57B18D'  # Jonathan Esk-Riddell <jr@jriddell.org>
               '0AAC775BB6437A8D9AF7A3ACFE0784117FBCE11D'  # Bhushan Shah <bshah@kde.org>
